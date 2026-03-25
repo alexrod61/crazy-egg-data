@@ -40,13 +40,10 @@ A human-readable summary is also available here, but it is **not** the legal ins
 
 ## Important legal and attribution notes
 
-This repository does **not** claim copyright ownership, authorship, or original publication status for the mirrored dataset.
-
-This repository does **not** provide legal advice and does **not** alter, replace, or override the terms stated by the original source.
-
-Users should verify the original source record, the associated study, and the CC0 legal code for themselves before reuse, redistribution, or republication.
-
-If you cite, describe, or acknowledge this dataset in further coursework, reports, or presentations, you should attribute the **original source record** and, when relevant, the **associated study**, rather than citing this GitHub mirror as if it were the origin of the data.
+- This repository does **not** claim copyright ownership, authorship, or original publication status for the mirrored dataset.
+- This repository does **not** provide legal advice and does **not** alter, replace, or override the terms stated by the original source.
+- Users should verify the original source record, the associated study, and the CC0 legal code for themselves before reuse, redistribution, or republication.
+- If you cite, describe, or acknowledge this dataset in further coursework, reports, or presentations, you should attribute the **original source record** and, when relevant, the **associated study**, rather than citing this GitHub mirror as if it were the origin of the data.
 
 ## Contents
 
